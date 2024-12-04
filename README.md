@@ -34,6 +34,9 @@ We use the BETH dataset, which simulates real-world logs and provides a rich sou
 
 Our deep learning model is designed to process the features from the BETH dataset and output a binary classification indicating whether an event is suspicious or not. The specific architecture details will be provided in the code documentation.
 
+## Performance
+The model has achieved 90% accuracy on the testing sample, demonstrating its effectiveness in detecting cyber threats.
+
 ## Contributing
 
 Contributions to improve the model's performance or extend its capabilities are welcome. Please feel free to submit pull requests or open issues for discussion.
